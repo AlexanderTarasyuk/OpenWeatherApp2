@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OpenWeatherApp</string>
+    <string name="city_name">City</string>
+    <string name="temperature">temperature</string>
+    <string name="description_weather">description weather</string>
+    <string name="wind">wind</string>
+    <string name="humidity">humidity</string>
+    <string name="pressure">pressure</string>
+    <string name="sunrise">sunrise</string>
+    <string name="sunset">sunset</string>
+    <string name="wind_value">wind value</string>
+    <string name="humidity_value">humidity value</string>
+    <string name="pressure_value">pressure value</string>
+    <string name="tempmax">temp max</string>
+    <string name="sunrise_value">sunrise value</string>
+    <string name="sunset_value">sunset value</string>
+    <string name="temp_min">temp min</string>
+</resources>
