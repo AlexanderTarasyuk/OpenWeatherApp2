@@ -15,4 +15,5 @@
     <string name="sunrise_value">sunrise value</string>
     <string name="sunset_value">sunset value</string>
     <string name="temp_min">temp min</string>
+    <string name="openweather">OpenWeather!</string>
 </resources>
